@@ -13,7 +13,7 @@ public class exercicio11 {
             System.out.println("O valor digitado é: " + number + ", NEGATIVO! ");
         }
         else { 
-            System.out.println("O valor digitado é: " + number + ", POSITIVO!");
+            System.out.println("O valor digitado é: " + number + ", NÃO NEGATIVO!");
         }
 
     }
