@@ -12,8 +12,15 @@ public class programa08 {
         if (hora < 12) {
             System.out.println("Olá, bom dia!");
         }
+
         else {
-            System.err.println("Olá, boa tarde! ");
+            if (hora < 18) { 
+                System.out.println("Olá, boa tarde!"); 
+            }
+            
+            else { 
+                System.out.println("Olá, boa noite!");
+            }
         }
 
         sc.close();
