@@ -6,9 +6,17 @@ public class exercicio12 {
 
         Scanner sc = new Scanner(System.in);
         Locale.setDefault(Locale.US);
-        
+
         int num;
+
         num = sc.nextInt();
+
+        if (num % 2 == 0) {
+            System.out.println("PAR!");
+        }
+        else { 
+            System.out.println("IMPAR!");
+        }
 
         sc.close();
     }
