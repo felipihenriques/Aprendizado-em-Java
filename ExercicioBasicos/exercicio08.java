@@ -1,6 +1,7 @@
 // Exercício 04
 import java.util.Locale;
 import java.util.Scanner;
+package ExercicioBasicos;
 
 public class exercicio08 {
     public static void main(String[] args) {

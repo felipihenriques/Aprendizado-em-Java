@@ -1,4 +1,5 @@
 import java.util.Scanner;
+package ExercicioBasicos;
 
 public class exercicio11 { 
     public static void main(String [] args ) { 

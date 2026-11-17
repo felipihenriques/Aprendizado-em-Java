@@ -1,5 +1,5 @@
 // Exercicio 03
-
+package ExercicioBasicos;
 import java.util.Scanner;
 
 public class exercicio07 { 

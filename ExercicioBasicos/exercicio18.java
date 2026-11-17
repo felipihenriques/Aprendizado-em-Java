@@ -1,5 +1,5 @@
 // Exercício 2: Soma de números
-
+package ExercicioBasicos;
 import java.util.Scanner;
 
 public class exercicio18 {

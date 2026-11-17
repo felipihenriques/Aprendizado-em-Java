@@ -1,5 +1,6 @@
 
 import java.util.Scanner;
+package ExercicioBasicos;
 
 public class exercicio16 { 
     public static void main(String [] args) {
