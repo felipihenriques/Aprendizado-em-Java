@@ -1,3 +1,6 @@
+package ExercicioBasicos;
+
+
 public class exercicio04 {
     public static void main(String[] args) {
         double a, b, c;
