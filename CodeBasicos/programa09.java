@@ -1,3 +1,5 @@
+package codebasicos;
+
 public class programa09 {
     public static void main(String[] args) { 
         double preco, desconto;

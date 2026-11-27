@@ -1,3 +1,5 @@
+package codebasicos;
+
 public class programa05 {
     public static void main(String[] args) {
         double x = 3.0;

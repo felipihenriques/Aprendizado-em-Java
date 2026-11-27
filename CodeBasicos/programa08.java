@@ -1,3 +1,4 @@
+package codebasicos;
 
 import java.util.Scanner;
 

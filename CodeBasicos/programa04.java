@@ -1,3 +1,5 @@
+package codebasicos;
+
 import java.util.Scanner;
 
 public class programa04 { 

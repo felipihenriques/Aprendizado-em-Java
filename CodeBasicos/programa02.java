@@ -1,3 +1,5 @@
+package codebasicos;
+
 public class programa02 {
 
     public static void main(String[] args ) {

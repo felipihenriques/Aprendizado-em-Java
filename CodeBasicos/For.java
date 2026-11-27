@@ -1,4 +1,4 @@
-package CodeMedios;
+package codebasicos;
 
 import java.util.Scanner;
 

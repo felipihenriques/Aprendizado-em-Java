@@ -1,3 +1,5 @@
+package codebasicos;
+
 public class programa07 { 
     public static void main(String[] args) {
         boolean x, y, z; 

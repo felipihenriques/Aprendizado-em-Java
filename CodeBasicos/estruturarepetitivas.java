@@ -1,8 +1,10 @@
+package codebasicos;
+
 import java.util.Scanner;
 
-public class estruturarepetitivas { 
-    public static void main(String [] args) {
-        Scanner sc = new Scanner(System.in); 
+public class estruturarepetitivas {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
 
         int x = sc.nextInt();
 
@@ -14,7 +16,7 @@ public class estruturarepetitivas {
             x = sc.nextInt();
         }
 
-        System.out.println("A quantidades de tentativas foram: "  + somar);
+        System.out.println("A quantidades de tentativas foram: " + somar);
 
         sc.close();
     }

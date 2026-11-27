@@ -1,3 +1,5 @@
+package codebasicos;
+
 import java.util.Locale;
 
 public class programa01 { 
